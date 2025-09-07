@@ -1,5 +1,5 @@
 <!-- Banner GIF -->
-<img align="right" height="150" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" />
+
 
 <h1 align="center">Hi 👋, I'm <strong>Prabal Pratap Singh</strong></h1>
 
