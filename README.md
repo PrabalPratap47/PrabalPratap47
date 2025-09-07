@@ -1,17 +1,14 @@
 <!-- Banner GIF -->
 <img align="right" height="150" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" />
 
-<h1 align="center">
-  <span style="color:#00ffee;">
-    <blink>Hi 👋, I'm <strong>Prabal Pratap Singh</strong></blink>
-  </span>
-</h1>
+<h1 align="center">Hi 👋, I'm <strong>Prabal Pratap Singh</strong></h1>
 
 <h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prabalpratap47&label=Profile%20views&color=0e75b6&style=flat" alt="prabalpratap47" />
 </p>
+
 
 
 ### 🌐 Connect with me:
